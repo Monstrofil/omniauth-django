@@ -1,2 +1,2 @@
-require "omniauth-github/version"
-require 'omniauth/strategies/github'
+require "omniauth-django/version"
+require 'omniauth/strategies/django'

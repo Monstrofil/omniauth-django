@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in omniauth-github.gemspec
-gemspec
+# Specify your gem's dependencies in omniauth-django.gemspec
+# gemspec
 
 group :development, :test do
   gem 'guard'
